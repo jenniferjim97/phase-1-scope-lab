@@ -16,7 +16,7 @@ example, we'll ask you to declare variables in global scope, and write functions
 that break down. You'll also need to use `var` to declare all variables except
 when specifically instructed otherwise. We do this because, by testing the
 limits and exposing the underbelly of a language, you can better understand it
-and know what to avoid in the future.
+and know what to avoid in the future. 
 
 Ok, these are your tasks:
 
